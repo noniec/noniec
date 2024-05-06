@@ -2,7 +2,7 @@
 - 👀 I’m interested in web/software development
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on entry-level projects
-- 📫 How to reach me ...
+- 📫 How to reach me nzubenomso@gmail.com
 
 <!---
 noniec/noniec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
